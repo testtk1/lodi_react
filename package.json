@@ -1,7 +1,10 @@
 {
-  "name": "lodi_react",
-  "version": "0.1.0",
-  "private": true,
+  "name": "lodi_react_khuong",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/testtk1/lodi_react"
+  },
   "dependencies": {
     "firebase": "^5.8.0",
     "react": "16.7.0-alpha.2",
