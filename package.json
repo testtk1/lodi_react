@@ -1,6 +1,6 @@
 {
   "name": "lodi_react_khuong",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/testtk1/lodi_react"
@@ -11,7 +11,12 @@
     "react-dom": "16.7.0-alpha.2",
     "react-firebase": "^2.2.8",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.3"
+    "react-scripts": "2.1.3",
+    "track_tk02": "^1.0.1",
+    "res_search_joekent": "^1.0.1",
+    "gatsby_test_matti": "^1.0.1",
+    "blogs_anssi": "^1.0.1"
+
   },
   "scripts": {
     "start": "react-scripts start",
